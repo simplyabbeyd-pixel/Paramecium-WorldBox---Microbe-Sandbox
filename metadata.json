@@ -1,0 +1,6 @@
+{
+  "name": "Paramecium WorldBox - Microbe Sandbox",
+  "description": "A microscopic god simulator and fantasy homebrew universe inspired by WorldBox. Cultivate the cosmos with Paramecia as the starter seed, nurture symbiotic protozoan communities, appoint Sanctuary Guides, enact universal statutes, and steward celestial ecosystems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
